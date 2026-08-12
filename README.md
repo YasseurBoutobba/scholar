@@ -156,13 +156,6 @@ uv run streamlit run frontend/app.py
 
 Then open the Streamlit URL, ingest a paper on the Library page, and ask about it on the Query page.
 
-## Running tests
-
-```bash
-uv run pytest tests -q
-uv run ruff check backend frontend tests
-uv run mypy backend
-```
 
 ## Known limitations
 

@@ -1,0 +1,49 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# uv cache
+.uv/
+
+# mypy / ty
+.mypy_cache/
+.ty/
+
+# ruff
+.ruff_cache/
+
+# pytest
+.pytest_cache/
+
+# Alembic
+alembic/versions/*.pyc
+
+
+
